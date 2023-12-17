@@ -2,7 +2,6 @@
 # Hi 👋 I am Jeremiah! 
 I am an advanced computing student at [ANU](https://www.anu.edu.au/), specializing in systems and architecture. dedicated to building secure, scalable, resilient, and robust applications.
 
-- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/jeremiahhsing/) for more information and to get in touch.
 - 👋 Check out my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights.
 
 ---
