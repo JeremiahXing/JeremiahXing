@@ -37,4 +37,34 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+  </a>
+  <a href="#" target="_blank"> <!-- No official page for RestfulAPI -->
+    <img src="https://img.shields.io/badge/RestfulAPI-%236DB33F.svg?style=flat-square&logo=restful&logoColor=white" alt="RestfulAPI">
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next-dot-js&logoColor=white" alt="Next.js">
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
+    <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven">
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="npm">
+  </a>
 </p>
