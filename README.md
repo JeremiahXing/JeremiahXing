@@ -79,4 +79,10 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://yarnpkg.com/" target="_blank">
     <img src="https://img.shields.io/badge/Yarn-%232188B6.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
   </a>
+  <a href="https://www.jdoodle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JDoodle-%23F89820.svg?style=flat-square&logo=jdoodle&logoColor=white" alt="JDoodle">
+  </a>
+  <a href="https://gohugo.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=flat-square&logo=hugo&logoColor=white" alt="Hugo">
+  </a>
 </p>
