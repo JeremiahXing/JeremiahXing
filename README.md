@@ -79,4 +79,10 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://yarnpkg.com/" target="_blank">
     <img src="https://img.shields.io/badge/Yarn-%232188B6.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
   </a>
+  <a href="https://www.rockstargames.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Rockstar%20Games-%23FFFFFF.svg?style=flat-square&logo=rockstar-games&logoColor=black" alt="Rockstar Games">
+  </a>
+  <a href="https://www.ea.com/games/battlefield" target="_blank">
+    <img src="https://img.shields.io/badge/Battlefield-%23007ACC.svg?style=flat-square&logo=battlefield&logoColor=white" alt="Battlefield">
+  </a>
 </p>
