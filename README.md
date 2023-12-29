@@ -17,7 +17,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
   </a>
   <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank">
-    <img src="https://img.shields.io/badge/C-%23ED8B00.svg?style=flat-square&logo=C&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C-%23E99B00.svg?style=flat-square&logo=C&logoColor=white" alt="C">
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
