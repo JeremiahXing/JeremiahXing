@@ -31,6 +31,15 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://gitlab.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React">
   </a>
@@ -78,6 +87,18 @@ I am an advanced computing student at ANU, specializing in systems and architect
   </a>
   <a href="https://yarnpkg.com/" target="_blank">
     <img src="https://img.shields.io/badge/Yarn-%232188B6.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://golang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go">
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  </a>
+  <a href="https://webassembly.org/" target="_blank">
+    <img src="https://img.shields.io/badge/WebAssembly-%23652B81.svg?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly (Wasm)">
   </a>
   <a href="https://www.jdoodle.com/" target="_blank">
     <img src="https://img.shields.io/badge/JDoodle-%23F89820.svg?style=flat-square&logo=jdoodle&logoColor=white" alt="JDoodle">
