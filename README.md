@@ -67,4 +67,16 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="npm">
   </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Yarn-%232188B6.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
+  </a>
 </p>
