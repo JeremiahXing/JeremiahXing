@@ -55,7 +55,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
+<!--   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   </a>
   <a href="https://graphql.org/" target="_blank">
@@ -63,7 +63,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
   </a>
   <a href="#" target="_blank"> <!-- No official page for RestfulAPI -->
     <img src="https://img.shields.io/badge/RestfulAPI-%236DB33F.svg?style=flat-square&logo=restful&logoColor=white" alt="RestfulAPI">
-  </a>
+  </a> -->
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next-dot-js&logoColor=white" alt="Next.js">
   </a>
@@ -73,7 +73,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven">
   </a>
-  <a href="https://www.npmjs.com/" target="_blank">
+<!--   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="npm">
   </a>
   <a href="https://expressjs.com/" target="_blank">
@@ -81,17 +81,17 @@ I am an advanced computing student at ANU, specializing in systems and architect
   </a>
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  </a>
+  </a> -->
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
   </a>
-  <a href="https://yarnpkg.com/" target="_blank">
+<!--   <a href="https://yarnpkg.com/" target="_blank">
     <img src="https://img.shields.io/badge/Yarn-%232188B6.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
-  <a href="https://golang.org/" target="_blank">
+<!--   <a href="https://golang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go">
   </a>
   <a href="https://www.rust-lang.org/" target="_blank">
@@ -99,7 +99,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
   </a>
   <a href="https://webassembly.org/" target="_blank">
     <img src="https://img.shields.io/badge/WebAssembly-%23652B81.svg?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly (Wasm)">
-  </a>
+  </a> -->
   <a href="https://www.jdoodle.com/" target="_blank">
     <img src="https://img.shields.io/badge/JDoodle-%23F89820.svg?style=flat-square&logo=jdoodle&logoColor=white" alt="JDoodle">
   </a>
