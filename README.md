@@ -55,15 +55,12 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
-<!--   <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   </a>
   <a href="https://graphql.org/" target="_blank">
     <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
   </a>
-  <a href="#" target="_blank"> <!-- No official page for RestfulAPI -->
-    <img src="https://img.shields.io/badge/RestfulAPI-%236DB33F.svg?style=flat-square&logo=restful&logoColor=white" alt="RestfulAPI">
-  </a> -->
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next-dot-js&logoColor=white" alt="Next.js">
   </a>
