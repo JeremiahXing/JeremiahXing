@@ -97,10 +97,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://webassembly.org/" target="_blank">
     <img src="https://img.shields.io/badge/WebAssembly-%23652B81.svg?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly (Wasm)">
   </a> -->
-  <a href="https://www.jdoodle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JDoodle-%23F89820.svg?style=flat-square&logo=jdoodle&logoColor=white" alt="JDoodle">
-  </a>
-  <a href="https://gohugo.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=flat-square&logo=hugo&logoColor=white" alt="Hugo">
+  <a href="https://brew.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Homebrew-%23FBB040.svg?style=flat-square&logo=homebrew&logoColor=white" alt="Homebrew">
   </a>
 </p>
