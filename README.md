@@ -73,21 +73,9 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
   </a>
-<!--   <a href="https://yarnpkg.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Yarn-%232188B6.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
-  </a> -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
-<!--   <a href="https://golang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go">
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  </a>
-  <a href="https://webassembly.org/" target="_blank">
-    <img src="https://img.shields.io/badge/WebAssembly-%23652B81.svg?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly (Wasm)">
-  </a> -->
   <a href="https://brew.sh/" target="_blank">
     <img src="https://img.shields.io/badge/Homebrew-%23FBB040.svg?style=flat-square&logo=homebrew&logoColor=white" alt="Homebrew">
   </a>
