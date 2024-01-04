@@ -4,7 +4,7 @@ I am an advanced computing student at ANU, specializing in systems and architect
 
 - 👋 Check out my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights.
 
----
+------
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeremiahXing&show_icons=true&theme=bear" width="400">
