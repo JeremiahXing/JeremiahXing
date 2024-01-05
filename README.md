@@ -28,6 +28,9 @@ I am an advanced computing student at ANU, specializing in systems and architect
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
